@@ -1,7 +1,6 @@
 # House Price Prediction
 
-AI Minor Project : Sem 4
-
+AI Minor Project : Semester IV
 Contributors : Sudhang 102016069
                Smilee  102016065
                
